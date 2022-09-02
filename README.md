@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a Research Assistant/Statistician within the [HIV Inference Group](https://hiv-inference.org/) at Imperial College London. 
-My research focuses on the use of Bayesian hierarchical modelling and spatio-temporal statistics in Global Health and epidemiology, specifically in modelling the HIV epidemic in sub-Saharan Africa (and even more specifically, in modelling [male circumcision coverage](https://arxiv.org/pdf/2108.09142.pdf) there (for which I am actively developing the R package [`threemc`](https://github.com/mrc-ide/threemc))). 
+My research focuses on the use of Bayesian multilevel modelling and spatio-temporal statistics in Global Health and epidemiology, specifically in modelling the HIV epidemic in sub-Saharan Africa (and even more specifically, in modelling [male circumcision coverage](https://arxiv.org/pdf/2108.09142.pdf) there (for which I am actively developing the R package [`threemc`](https://github.com/mrc-ide/threemc))). 
 
 I am proficient in R (mainly using the `tidyverse`, `data.table` and `sf` for data manipulation, [`orderly`](https://github.com/vimc/orderly) for reproducible reporting, and `TMB`, `INLA` and `rstan` for Bayesian inference) and also have a limited knowledge of Python (mainly `numpy` and `skikitlearn` for machine learning) and C++. 
 
