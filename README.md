@@ -5,7 +5,7 @@ My research focuses on the use of Bayesian and spatio-temporal statistics in Glo
 
 I am proficient in R (mainly using the `tidyverse`, `data.table` and `sf` for data manipulation, [`orderly`](https://github.com/vimc/orderly) for reproducible reporting, and `TMB`, `INLA` and `rstan` for Bayesian inference) and also have a limited knowledge of Python (mainly `numpy` and `skikitlearn` for machine learning) and C++. 
 
-I am originally from Laois in Ireland, and in 2020 completed a B.Sc. in Statistics at Univesity College Dublin. I have worked previously as a Statistician at [Airfinity](https://www.airfinity.com/), helping to estimate and forecast global Covid-19 vaccinations and vaccine supply and production for major stakeholders, and as an Intern Statistician at [Lubrizol](https://www.lubrizol.com/), building predictive models for speciality chemicals. 
+I am originally from Laois in Ireland, and in 2020 completed a B.Sc. in Statistics at Univesity College Dublin. I have worked previously as a Statistician at [Airfinity](https://www.airfinity.com/), helping to estimate and forecast global COVID-19 vaccinations and vaccine supply and production for major stakeholders, and as an Intern Statistician at [Lubrizol](https://www.lubrizol.com/), building predictive models for speciality chemicals. 
 
 I am actively looking for a PhD position in Bayesian statistics, so if you are taking on students, or know of any good programmes, please get in touch! I can be contacted at paddy7wb dot gmail dot com.
 
